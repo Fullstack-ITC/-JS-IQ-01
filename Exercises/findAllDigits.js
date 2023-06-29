@@ -1,5 +1,5 @@
 /*
-Taking each four digit number of an array in turn, return the number that you are on when all of the digits 0-9 have been discovered. If all the numbers cant be found, return "Missing digits!".
+Taking each four digit number of an array, return the number block that you are on when all of the digits 0-9 have been discovered. If all the numbers cant be found by the end of the loop, return "Missing digits!".
 
 Examples
 findAllDigits([5175, 4538, 2926, 5057, 6401, 4376, 2280, 6137, 8798, 9083]) ➞ 5057
